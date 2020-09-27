@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.chaos.superapp",
+    "sha256_cert_fingerprints":
+    ["3F:D8:5A:FA:F0:08:CC:B6:42:D8:C4:E2:4D:68:43:0A:75:95:7A:84:E8:32:FE:68:E7:94:CD:CA:7F:A2:BC:E0"]
+  }
+}]
